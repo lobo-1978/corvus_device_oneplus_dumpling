@@ -23,6 +23,7 @@
 #
 
 $(call inherit-product, vendor/oneplus/dumpling/dumpling-vendor.mk)
+$(call inherit-product, vendor/moto/dolby/moto_dolby.mk)
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \

@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/yaap_dumpling.mk
+    $(LOCAL_DIR)/corvus_dumpling.mk
 
 COMMON_LUNCH_CHOICES := \
-    yaap_dumpling-user \
-    yaap_dumpling-userdebug \
-    yaap_dumpling-eng
+    corvus_dumpling-user \
+    corvus_dumpling-userdebug \
+    corvus_dumpling-eng
